@@ -19,7 +19,7 @@
 - файл `data/raw/diabetic_data.csv`
 - целевая переменная: `readmitted` (`"<30"` соответствует 1, `">30"` и `"NO"` соответствует 0)
 
-Файл: `notebooks/data_loading.ipynb`
+Файл: `notebooks/data_loading_and_initial_eda.ipynb`
 
 ### 1.2. Первичный EDA
 
@@ -27,6 +27,8 @@
 - типы признаков: числовые, категориальные, порядковые
 - кардинальность категориальных
 - визуализация пропусков
+
+Файл: `notebooks/data_loading_and_initial_eda.ipynb`
 
 ### 1.3. Обработка пропущенных значений
 
