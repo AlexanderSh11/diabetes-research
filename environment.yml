@@ -1,0 +1,13 @@
+name: diabetes-research
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - pandas
+      - numpy
+      - matplotlib
+      - scikit-learn
+      - optuna
+      - jupyter
