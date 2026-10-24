@@ -47,7 +47,13 @@
 
 ### 1.5. Разделение данных для избежания утечки данных
 
+Файл: `notebooks/split_outliers_scaling.ipynb`
+
 ### 1.6. Масштабирование и выбросы
+
+Использование RobustScaler
+
+Файл: `notebooks/split_outliers_scaling.ipynb`
 
 ### 1.7. Feature engineering
 
