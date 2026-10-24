@@ -49,17 +49,23 @@
 
 Файл: `notebooks/split_outliers_scaling.ipynb`
 
-### 1.6. Масштабирование и выбросы
-
-Использование RobustScaler
+### 1.6. Анализ выбросов
 
 Файл: `notebooks/split_outliers_scaling.ipynb`
 
 ### 1.7. Feature engineering
 
-### 1.8. Дисбаланс классов
+Файл: `notebooks/split_outliers_scaling.ipynb`
 
-### 1.9. Подготовка данных для обучения и сохранение в pickle
+### 1.8. Масштабирование признаков
+
+Использование RobustScaler
+
+Файл: `notebooks/split_outliers_scaling.ipynb`
+
+### 1.9. Дисбаланс классов
+
+### 1.10. Подготовка данных для обучения и сохранение в pickle
 
 ---
 
