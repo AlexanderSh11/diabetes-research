@@ -63,13 +63,17 @@
 
 Файл: `notebooks/split_outliers_scaling.ipynb`
 
-### 1.9. Дисбаланс классов
+### 1.9. Матрица корреляций и анализ мультиколлинеарности
+
+Файл: `notebooks/split_outliers_scaling.ipynb`
+
+### 1.10. Дисбаланс классов
 
 Выбраны стратегии против дисбаланса классов: параметры у моделей и подбор порога классификации
 
 Файл: `notebooks/split_outliers_scaling.ipynb`
 
-### 1.10. Подготовка данных для обучения и сохранение в pickle
+### 1.11. Подготовка данных для обучения и сохранение в pickle
 
 Файл: `notebooks/split_outliers_scaling.ipynb`
 
@@ -77,9 +81,9 @@
 
 ## Этап 2. Анализ важности признаков
 
-### 2.1. Important features из Random Forest
+Important features из Random Forest
 
-### 2.2. Матрица корреляций и анализ мультиколлинеарности
+Файл: `notebooks/feature_importance.ipynb`
 
 ---
 
