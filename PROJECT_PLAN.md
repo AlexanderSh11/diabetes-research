@@ -75,6 +75,15 @@
 
 ### 1.11. Подготовка данных для обучения и сохранение в pickle
 
+Сохранение признаков и таргета в формате pickle:
+
+- `data/processed/X_train.pkl`
+- `data/processed/X_val.pkl`
+- `data/processed/X_test.pkl`
+- `data/processed/y_train.pkl`
+- `data/processed/y_val.pkl`
+- `data/processed/y_test.pkl`
+
 Файл: `notebooks/split_outliers_scaling.ipynb`
 
 ---
@@ -82,6 +91,12 @@
 ## Этап 2. Анализ важности признаков
 
 Important features из Random Forest
+
+Сохранение отобранных признаков в датафреймы с суффиксом `_selected`:
+
+- `data/processed/X_train_selected.pkl`
+- `data/processed/X_val_selected.pkl`
+- `data/processed/X_test_selected.pkl`
 
 Файл: `notebooks/feature_importance.ipynb`
 
