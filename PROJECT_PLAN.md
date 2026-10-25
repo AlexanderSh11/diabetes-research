@@ -104,6 +104,8 @@ Important features из Random Forest
 
 ## Этап 3. Обучение и оценка моделей
 
+Файл: `notebooks/model_training.ipynb`
+
 ### 3.1. Модель 1 (линейная)
 
 - Logistic Regression с L1/L2-регуляризацией
@@ -119,6 +121,7 @@ Important features из Random Forest
 - ROC-AUC
 - F1-score, Precision, Recall
 - Accuracy
+- Анализ переобучения
 
 ### 3.3. Подбор порога
 
